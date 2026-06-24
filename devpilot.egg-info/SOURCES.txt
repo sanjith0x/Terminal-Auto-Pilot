@@ -1,0 +1,12 @@
+README.md
+setup.py
+devpilot/__init__.py
+devpilot/agent.py
+devpilot/cli.py
+devpilot/tools.py
+devpilot.egg-info/PKG-INFO
+devpilot.egg-info/SOURCES.txt
+devpilot.egg-info/dependency_links.txt
+devpilot.egg-info/entry_points.txt
+devpilot.egg-info/requires.txt
+devpilot.egg-info/top_level.txt
