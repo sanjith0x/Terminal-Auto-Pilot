@@ -7,7 +7,8 @@ setup(
     install_requires=[
         'google-genai',
         'python-dotenv',
-        'colorama'
+        'colorama',
+        'tenacity'
     ],
     entry_points={
         'console_scripts': [
